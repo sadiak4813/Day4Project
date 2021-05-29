@@ -4,7 +4,7 @@ public class BranchingPractice {
         // created new project
         // enabled version control
         // added /gitignore with .idea , target folder and .iml file
-        //shared project on gitbhub
+        //shared project on github
 
         //reviewing on new branch
         // doing more review on branch
